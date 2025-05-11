@@ -1,0 +1,5 @@
+git init         # Initialize a Git repository
+git add .        # Stage all files for commit
+git commit -m "" # Save a commit message
+git push         # Upload to GitHub
+git status       # Check current changes
